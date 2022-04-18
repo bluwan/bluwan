@@ -1,9 +1,12 @@
-<h3>👋Hi everyone,</h3>
-<hr>
-<p>
+## 👋Hi everyone,</h3>
+
+
   <h5> <p>-🍕I’m bluwan <p>
        - 🥧I was born in 2008<p> 
        - 🌱 I’m currently learning Python </h5>
+----------------------------------------------------------------------------------------------- <p>
+Je ne partage pour l'instant pas de code
+
 
 
 <!---
